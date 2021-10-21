@@ -30,7 +30,7 @@ def send_start_signal():
 
 # getting the crypted message
 def get_message():
-    file_size_str = conn.recv(4)
+    file_size_str = conn.recv(3)
     file_size = int(str(file_size_str, "utf-8"))
     return conn.recv(file_size*2)
 
