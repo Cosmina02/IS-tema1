@@ -1,0 +1,8 @@
+In cryptography, encryption is the process of encoding information.
+This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext.
+Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information.
+Encryption does not itself prevent interference but denies the intelligible content to a would be interceptor.
+
+The dog (Canis familiaris) is a domesticated descendant of the wolf, characterized by an upturning tail.
+The dog derived from an ancient, extinct wolf, and the modern grey wolf is the dog's nearest living relative.
+The dog was the first species to be domesticated, by hunter–gatherers over 15,000 years ago, before the development of agriculture.
